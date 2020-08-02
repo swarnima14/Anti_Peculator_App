@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10751786839",
+    "firebase_url": "https://antitheft-d5ca2.firebaseio.com",
+    "project_id": "antitheft-d5ca2",
+    "storage_bucket": "antitheft-d5ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10751786839:android:fe8ec2694e00d98dd8c812",
+        "android_client_info": {
+          "package_name": "com.example.antitheft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10751786839-23oniq78gsp2qa36i00lofj1b14fapcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antitheft",
+            "certificate_hash": "92e5505236d0299edcc792401b11f053a694a11a"
+          }
+        },
+        {
+          "client_id": "10751786839-elpuvde283keerqubpsvd52tei80p2ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZIS1pNZRGGcu-POZNliJVUBOAMpsve4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10751786839-elpuvde283keerqubpsvd52tei80p2ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
