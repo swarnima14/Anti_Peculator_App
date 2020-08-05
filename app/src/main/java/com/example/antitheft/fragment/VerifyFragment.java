@@ -26,7 +26,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.concurrent.TimeUnit;
-
+//verifying user by contact number
 public class VerifyFragment extends Fragment {
     private String verificationId;
     private FirebaseAuth mAuth;

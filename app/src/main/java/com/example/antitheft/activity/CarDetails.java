@@ -28,7 +28,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
-
+//activity for displaying car details
 public class CarDetails extends AppCompatActivity {
 
     RecyclerView recyclerView;
@@ -66,7 +66,7 @@ public class CarDetails extends AppCompatActivity {
         progressDialog.show();
 
 
-
+        //fetching values from database
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
@@ -101,7 +101,7 @@ public class CarDetails extends AppCompatActivity {
         });
 
     }
-
+//implemented search option
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 

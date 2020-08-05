@@ -24,7 +24,7 @@ import com.google.android.material.card.MaterialCardView;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//adapter for recycler view
 public class DetailsAdapter extends RecyclerView.Adapter<DetailsAdapter.ViewHolder> implements Filterable {
 
 

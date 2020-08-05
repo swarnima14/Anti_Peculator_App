@@ -42,7 +42,7 @@ public class WelcomeActivity extends AppCompatActivity {
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK| Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(intent);
         }*/
-
+//for mechanic
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -58,7 +58,7 @@ public class WelcomeActivity extends AppCompatActivity {
                 }
             }
         });
-
+//for authority
         materialBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

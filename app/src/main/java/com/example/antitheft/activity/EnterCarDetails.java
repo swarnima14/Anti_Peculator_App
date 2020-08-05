@@ -30,7 +30,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
-
+//activity for entering car details
 public class EnterCarDetails extends AppCompatActivity {
 
     TextInputEditText etNum,etModel;
@@ -83,7 +83,7 @@ public class EnterCarDetails extends AppCompatActivity {
         });
 
     }
-
+//save car number and model to database
     private void saveToDatabase()
     {
         String saveDate;
@@ -134,7 +134,7 @@ public class EnterCarDetails extends AppCompatActivity {
 
 
     }
-
+//retreiving mechanic details so as to store all the required fields together
     @Override
     protected void onStart() {
         super.onStart();

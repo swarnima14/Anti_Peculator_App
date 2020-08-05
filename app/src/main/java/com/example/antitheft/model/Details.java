@@ -1,5 +1,5 @@
 package com.example.antitheft.model;
-
+//model class for recycler view
 public class Details
 {
     String name,district,pin,phone,carNum,model;

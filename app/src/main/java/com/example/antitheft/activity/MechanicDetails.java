@@ -61,7 +61,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
-
+//activity for entering mechanic details
 public class MechanicDetails extends AppCompatActivity {
 
     private FirebaseAuth auth;
@@ -169,7 +169,7 @@ public class MechanicDetails extends AppCompatActivity {
                     });
         }
     }
-
+//to fetch location of user
     @SuppressLint("MissingPermission")
     private void getLocation() {
 
@@ -207,7 +207,7 @@ public class MechanicDetails extends AppCompatActivity {
     }
 
 
-
+//check for permission available or not
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
@@ -239,7 +239,7 @@ public class MechanicDetails extends AppCompatActivity {
 
         }
     }
-
+//if user already exists, the name field will be autofilled
     @Override
     protected void onStart() {
         super.onStart();

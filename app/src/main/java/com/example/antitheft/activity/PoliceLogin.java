@@ -14,7 +14,7 @@ import android.widget.Toast;
 import com.example.antitheft.R;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
-
+//activity for authority login
 public class PoliceLogin extends AppCompatActivity {
 
     TextInputLayout pass_lay, mail_lay;
@@ -40,7 +40,7 @@ public class PoliceLogin extends AppCompatActivity {
         etMail = findViewById(R.id.etMail);
         btnLogin = findViewById(R.id.btnLogin);
 
-
+//moving on to the list
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
