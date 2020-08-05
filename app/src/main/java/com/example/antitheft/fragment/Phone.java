@@ -16,7 +16,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-//fragment for authenticating mechanic
+//fragment for authenticating mechanic where user enters contact number
 public class Phone extends Fragment {
     TextInputLayout textInputLayout;
 
