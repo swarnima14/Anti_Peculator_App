@@ -1,4 +1,10 @@
-# Anti_Peculator_App
+# Anti_Peculator_App<br/>
+Steps to run:<br/><br/>
+For moving in as mechanic you will need to go through phone authentication process followed by your details entering.<br/>
+Then you will be allowed to enter the required details of vehicles.<br/>
+For moving forward to the authority section you need to enter the email as:abc@gmail.com
+and pass as:123<br/>
+On logging in there appears a list of details of vehicles.<br/><br/>
 List of dependencies to be installed:<br/><br/>
  __implementation 'com.google.firebase:firebase-auth:19.3.2'<br/>
  __implementation 'com.google.firebase:firebase-database:19.3.1'<br/>
