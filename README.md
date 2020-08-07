@@ -18,7 +18,7 @@ List of dependencies to be installed:<br/><br/>
  __implementation 'androidx.recyclerview:recyclerview:1.1.0'<br/>
  __implementation 'com.google.firebase:firebase-core:17.4.4'<br/>
 
-![Uploading Screenshot_2020-08-07-15-42-04-342_com.example.antitheft.jpg…
+Screenshots<br\>
 ![Screenshot_2020-08-07-15-41-45-552_com example antitheft](https://user-images.githubusercontent.com/43717476/89657356-93b0b600-d8ea-11ea-8068-53c56357dded.jpg)
 ![Screenshot_2020-08-07-15-41-40-956_com example antitheft](https://user-images.githubusercontent.com/43717476/89657358-94e1e300-d8ea-11ea-956f-2eb203b38414.jpg)
 ![Screenshot_2020-08-07-15-41-17-426_com example antitheft](https://user-images.githubusercontent.com/43717476/89657361-957a7980-d8ea-11ea-9bf9-2a21a94d696d.jpg)
